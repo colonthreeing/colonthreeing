@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Matterhorn, a Celeste64 launcher.
 - 📫 How to reach me: hey&sealsearch.net (email obfuscated because I like a lack of spam)
 - 😄 Pronouns: they/them or she/her.
