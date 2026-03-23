@@ -6,6 +6,8 @@ I am proficient in Javascript, Python, Lua, YueScript/Moonscript, and to an exte
 
 I enjoy using Svelte for building websites, Tauri/Godot for building apps, and Love2D for game development.
 
+I'm best known for my Balatro mods & projects, you can find my most popular ones [here](https://julies-stuff.dev/balatro). I am currently on hiatus from modding but I plan to return after the next content update for Balatro.
+
 Contact: `@colonthreeing` on discord.
 
 ---
