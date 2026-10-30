@@ -14,4 +14,4 @@ Contact: `@colonthreeing` on discord.
 
 Useless graph of stuff:
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=colonthreeing&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
+[![Colonthreeing's GitHub stats](https://github-stats-extended.vercel.app/api?username=colonthreeing)](https://github.com/stats-organization/github-stats-extended)
